@@ -1,0 +1,4 @@
+﻿  Assignment2.cpp
+C:\Users\Christopher\source\repos\Assignment2\Assignment2.cpp(400,31): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Christopher\source\repos\Assignment2\Assignment2.cpp(418,31): warning C4553: '==': result of expression not used; did you intend '='?
+  Assignment2.vcxproj -> C:\Users\Christopher\source\repos\Assignment2\Debug\Assignment2.exe
